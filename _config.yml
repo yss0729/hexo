@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Follow your heart
+title: 太阳会照常升起
 subtitle: 随笔|感悟|学习
 description: 做一名有情怀的程序员
 author: 根号叁
@@ -65,6 +65,11 @@ pagination_dir: page
 ## Themes: http://hexo.io/themes/
 theme: next
 
+plugins:
+  hexo-generator-feed
+  hexo-generator-baidu-sitemap
+
+
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
@@ -74,3 +79,6 @@ deploy:
 
 # 头像
 avatar: /uploads/avatar.png
+
+# 多说评论
+duoshuo_shortname: yss0729
