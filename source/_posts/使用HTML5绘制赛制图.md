@@ -95,4 +95,6 @@ tags:
     </body>
 	</html>
 
+
+![](http://7xp62o.com1.z0.glb.clouddn.com/QQ%E5%9B%BE%E7%89%8720160112133704.png)
 调用的pageLoad()第一个参数是对阵人数，第二个参数必须从0开始，是记录轮次的索引值。
